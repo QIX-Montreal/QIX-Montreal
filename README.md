@@ -1,1 +1,1 @@
-# QIX-Montreal
+peering.qix.ca
